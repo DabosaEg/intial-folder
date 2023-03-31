@@ -1,0 +1,4 @@
+*.log
+!system.log
+!system1.log
+system/
